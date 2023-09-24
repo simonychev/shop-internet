@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
-  api: 'http://simonychev.site/api/',
-  serverStaticPath: 'http://simonychev.site/images/products'
+  api: 'https://simonychev.site/api/',
+  serverStaticPath: 'https://simonychev.site/images/products'
 };
